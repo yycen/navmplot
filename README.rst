@@ -31,4 +31,4 @@ Plotting data on Naver Maps. Here's an example
 
 -----
 
-Inspired by `GitHub <https://github.com/vgm64/gmplot>`_
+Inspired by `gmplot by Michael Woods <https://github.com/vgm64/gmplot>`_
